@@ -13,7 +13,7 @@ The goal is to gain meaningful insights into employee distribution, salary struc
 - Analyze employee data using SQL queries
 - Understand workforce distribution across departments and locations
 - Perform salary and experience-based analysis
-- Apply SQL concepts like CASE statements, aggregations, joins, views, and window functions
+- Apply MySQL concepts like CASE statements, aggregations, joins, views, and window functions
 
 ---
 
@@ -36,8 +36,7 @@ A total of 15 employee records are used for this analysis.
 
 ## 🛠️ Tools & Technologies
 
-- SQL (MySQL / PostgreSQL / SQL Server)
-- GitHub for version control
+- MySQL
 
 ---
 
